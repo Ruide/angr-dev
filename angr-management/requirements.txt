@@ -1,0 +1,8 @@
+websocket-client
+pygments
+angr
+ipython
+pyzmq
+PySide
+pygraphviz
+qtconsole

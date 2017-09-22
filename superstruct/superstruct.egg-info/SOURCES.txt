@@ -1,0 +1,5 @@
+superstruct.py
+superstruct.egg-info/PKG-INFO
+superstruct.egg-info/SOURCES.txt
+superstruct.egg-info/dependency_links.txt
+superstruct.egg-info/top_level.txt

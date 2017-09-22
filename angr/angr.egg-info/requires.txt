@@ -1,0 +1,17 @@
+ana
+bintrees
+cachetools
+capstone
+cooldict
+dpkt-fix
+futures
+mulpyplexer
+networkx
+progressbar
+rpyc
+cffi>=1.7.0
+unicorn
+archinfo>=7.0.0.0rc1
+claripy>=7.0.0.0rc1
+cle>=7.0.0.0rc1
+pyvex>=7.0.0.0rc1

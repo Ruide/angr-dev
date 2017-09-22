@@ -1,0 +1,6 @@
+cooldict.py
+cooldict.egg-info/PKG-INFO
+cooldict.egg-info/SOURCES.txt
+cooldict.egg-info/dependency_links.txt
+cooldict.egg-info/requires.txt
+cooldict.egg-info/top_level.txt

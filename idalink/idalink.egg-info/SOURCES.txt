@@ -1,0 +1,12 @@
+idalink/__init__.py
+idalink/idalink.py
+idalink/memory.py
+idalink/server.py
+idalink.egg-info/PKG-INFO
+idalink.egg-info/SOURCES.txt
+idalink.egg-info/dependency_links.txt
+idalink.egg-info/requires.txt
+idalink.egg-info/top_level.txt
+idalink/support/ida_env.bat
+idalink/support/ida_env.sh
+idalink/support/ida_macos_env.sh

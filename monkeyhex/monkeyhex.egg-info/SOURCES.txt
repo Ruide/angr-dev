@@ -1,0 +1,9 @@
+LICENSE
+MANIFEST.in
+README.md
+monkeyhex.py
+setup.py
+monkeyhex.egg-info/PKG-INFO
+monkeyhex.egg-info/SOURCES.txt
+monkeyhex.egg-info/dependency_links.txt
+monkeyhex.egg-info/top_level.txt
